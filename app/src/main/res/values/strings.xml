@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">eCommerce Assignment</string>
+    <string name="loading_products">Loading products ...</string>
+    <string name="products_list">Product list</string>
+    <string name="product_name">Name of the product</string>
+    <string name="hautelookcdn_products">Haute Look CDN Products</string>
+    <string name="division">Division: %s</string>
+    <string name="department">Department: %s</string>
+    <string name="brand">Brand: %s</string>
+    <string name="product_list">Product List</string>
+    <string name="product_division">Product Division</string>
+    <string name="product_department">Product Department</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_brand">Product Brand</string>
+    <string name="loading_product">Loading Product ...</string>
+</resources>
